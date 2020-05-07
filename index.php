@@ -38,7 +38,7 @@
         'deaths' => ['value' => $dataMeninggal[0]],
         'pdp' => ['value' => $dataPdp[0]],
         'odp' => ['value' => $dataOdp[0]],
-        'metadata' => ['lastUpdatedAt' => $dataUpdate[0]"18:00:00"]
+        'metadata' => ['lastUpdatedAt' => $dataUpdate[0]]
     
 );
 
